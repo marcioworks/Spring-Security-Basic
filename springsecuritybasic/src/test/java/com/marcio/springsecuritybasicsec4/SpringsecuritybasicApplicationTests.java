@@ -1,4 +1,4 @@
-package com.marcio.springsecuritybasicsec3;
+package com.marcio.springsecuritybasicsec4;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
