@@ -1,6 +1,6 @@
-package com.marcio.springsecuritybasicsec3.repository;
+package com.marcio.springsecuritybasicsec4.repository;
 
-import com.marcio.springsecuritybasicsec3.model.Customer;
+import com.marcio.springsecuritybasicsec4.model.Customer;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

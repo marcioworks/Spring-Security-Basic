@@ -1,10 +1,10 @@
-package com.marcio.springsecuritybasicsec3;
+package com.marcio.springsecuritybasicsec;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringsecuritybasicSec3ApplicationTests {
+class SpringsecuritybasicApplicationTests {
 
 	@Test
 	void contextLoads() {

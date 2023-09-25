@@ -1,4 +1,4 @@
-package com.marcio.springsecuritybasicsec4;
+package com.marcio.springsecuritybasicsec;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

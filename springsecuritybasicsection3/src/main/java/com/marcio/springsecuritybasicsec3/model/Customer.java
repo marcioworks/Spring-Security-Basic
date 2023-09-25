@@ -1,4 +1,4 @@
-package com.marcio.springsecuritybasicsec3.model;
+package com.marcio.springsecuritybasicsec4.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

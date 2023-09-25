@@ -1,4 +1,4 @@
-package com.marcio.springsecuritybasicsec4.config;
+package com.marcio.springsecuritybasicsec.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
