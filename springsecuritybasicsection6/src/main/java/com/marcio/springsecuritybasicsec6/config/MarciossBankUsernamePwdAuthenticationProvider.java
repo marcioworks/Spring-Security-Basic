@@ -1,9 +1,8 @@
-package com.marcio.springsecuritybasicsec5.config;
+package com.marcio.springsecuritybasicsec6.config;
 
-import com.marcio.springsecuritybasicsec5.model.Customer;
-import com.marcio.springsecuritybasicsec5.repository.CustomerRepository;
+import com.marcio.springsecuritybasicsec6.model.Customer;
+import com.marcio.springsecuritybasicsec6.repository.CustomerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.annotation.ComponentScan;
 import org.springframework.security.authentication.AuthenticationProvider;
 import org.springframework.security.authentication.BadCredentialsException;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

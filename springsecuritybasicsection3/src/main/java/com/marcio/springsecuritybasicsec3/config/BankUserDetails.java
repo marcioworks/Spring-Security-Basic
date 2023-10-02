@@ -1,7 +1,7 @@
-package com.marcio.springsecuritybasicsec4.config;
+package com.marcio.springsecuritybasicsec3.config;
 
-import com.marcio.springsecuritybasicsec4.model.Customer;
-import com.marcio.springsecuritybasicsec4.repository.CustomerRepository;
+import com.marcio.springsecuritybasicsec3.model.Customer;
+import com.marcio.springsecuritybasicsec3.repository.CustomerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
